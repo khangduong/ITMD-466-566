@@ -5,6 +5,6 @@
  
  # Group Number 9 
 
- # Project Hw 2 : 
+ # Project Hw 1 : 
   Build a Parser that converts the XML elements into SQL and populate the database. 
  
