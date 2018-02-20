@@ -1,0 +1,23 @@
+<?xml version="1.0" econding="UTF-8"?>
+<customers>
+	<customer id="1">
+		<name>Paul Peters</name>
+		<phone>3121112222</phone>
+		<email>ppeters@gmail.com</email>
+	</customer>
+	<customer id="2">
+		<name>Josh Black</name>
+		<phone>3121113456</phone>
+		<email>jblack@gmail.com</email>
+	</customer>
+  <customer id="3">
+		<name>Alice Kim</name>
+		<phone>3121135622</phone>
+		<email>akim@gmail.com</email>
+	</customer>
+  <customer id="4">
+		<name>Mike Duhame</name>
+		<phone>3121456722</phone>
+		<email>mduhamel@gmail.com</email>
+	</customer>
+</customers>
