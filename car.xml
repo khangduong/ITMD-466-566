@@ -1,0 +1,39 @@
+<?xml version="1.0" econding="UTF-8"?>
+<cars>
+  <car id = "1">
+    <model>Toyota Camry</model>
+    <year>2015</year>
+    <price>15000</price>
+    <mileage>15000</mileage>
+  </car>
+  <car id = "2">
+    <model>Volvo</model>
+    <year>2014</year>
+    <price>27000</price>
+    <mileage>35675</mileage>
+  </car>
+  <car id = "2">
+    <model>Mercedes Benz E 350</model>
+    <year>2013</year>
+    <price>21000</price>
+    <mileage>58010</mileage>
+  </car>
+  <car id = "3">
+    <model>Mazda CX-9</model>
+    <year>2012</year>
+    <price>16000</price>
+    <mileage>72431</mileage>
+  </car>
+  <car id = "4">
+    <model>Honda Civic</model>
+    <year>2010</year>
+    <price>6000</price>
+    <mileage>85000</mileage>
+  </car>
+  <car id = "5">
+    <model>Ford Focus</model>
+    <year>2009</year>
+    <price>4500</price>
+    <mileage>136000</mileage>
+  </car>
+</cars>
