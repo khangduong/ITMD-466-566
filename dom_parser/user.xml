@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id = "1">
+    <username>admin</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Anna</secretanswer>
+    <usertype>admin</usertype>
+  </user>
+  <user id = "2">
+    <username>manager</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Alice</secretanswer>
+    <usertype>admin</usertype>
+  </user>
+  <user id = "3">
+    <username>salesman1</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Mary</secretanswer>
+    <usertype>salesman</usertype>
+  </user>
+  <user id = "4">
+    <username>hkitty</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Amanda</secretanswer>
+    <usertype>customer</usertype>
+  </user>
+  <user id = "5">
+    <username>admin</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Anna</secretanswer>
+    <usertype>customer</usertype>
+  </user>
+  <user id = "6">
+    <username>hellokitty</username>
+    <password>5D41402ABC4B2A76B9719D911017C592</password>
+    <email>buycar@gmail.com</email>
+    <secretquestion>What's your mother's maiden name?</secretquestion>
+    <secretanswer>Anna</secretanswer>
+    <usertype>customer</usertype>
+  </user>
+</users>
