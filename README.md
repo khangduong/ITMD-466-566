@@ -1,13 +1,13 @@
 # ITMD 466/566 - Service Oriented Architecture
 
 ## Group Members    
- Pragya Shukla
+ **Pragya Shukla**
  
- Github: https://github.com/pragyashukla8
+ *Github*: https://github.com/pragyashukla8
  
- Dinh Khang Duong
+ **Dinh Khang Duong**
  
- Github: https://github.com/khangduong
+ *Github*: https://github.com/khangduong
  
  # Group Number 9: Car Request Services
  
