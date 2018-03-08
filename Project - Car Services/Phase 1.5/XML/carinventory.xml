@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarInventory>
+  <Car id = "1">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Toyota Camry</Model>
+    <Year>2015</Year>
+    <Price>15,000</Price>
+    <Mileage>15,000</Mileage>
+  </Car>
+  <Car id = "2">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Volvo</Model>
+    <Year>2014</Year>
+    <Price>27,000</Price>
+    <Mileage>35,675</Mileage>
+  </Car>
+  <Car id = "3">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Mercedes Benz E 350</Model>
+    <Year>2013</Year>
+    <Price>21,000</Price>
+    <Mileage>58,010</Mileage>
+  </Car>
+  <Car id = "4">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Mazda CX-9</Model>
+    <Year>2012</Year>
+    <Price>16,000</Price>
+    <Mileage>72,431</Mileage>
+  </Car>
+  <Car id = "5">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Honda Civic</Model>
+    <Year>2010</Year>
+    <Price>6,000</Price>
+    <Mileage>85,000</Mileage>
+  </Car>
+  <Car id = "6">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Model>Ford Focus</Model>
+    <Year>2009</Year>
+    <Price>4,500</Price>
+    <Mileage>136,000</Mileage>
+  </Car>
+</CarInventory>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Services>
+  <Service id = "1">
+    <Description>Changing Tires</Description>
+  </Service>
+  <Service id = "2">
+    <Description>Cleaning windows</Description>
+  </Service>
+  <Service id = "3">
+    <Description>Oil Change</Description>
+  </Service>
+  <Service id = "4">
+    <Description>Selling Used cars</Description>
+  </Service>
+  <Service id = "5">
+    <Description>Selling New cars</Description>
+  </Service>
+  <Service id = "6">
+    <Description>Selling AC cooler</Description>
+  </Service>
+</Services>

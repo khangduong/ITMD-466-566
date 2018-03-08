@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parts>
+  <Part id = "1">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>Wind shield</Name>
+    <Description>Apply to any car</Description>
+    <Price>60</Price>
+  </Part>
+  <Part id = "2">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>exhaust pipes</Name>
+    <Description>2 exhaust pipes</Description>
+    <Price>7,050</Price>
+  </Part>
+  <Part id = "3">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>heater</Name>
+    <Description>provide heating</Description>
+    <Price>1,000</Price>
+  </Part>
+  <Part id = "4">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>AC</Name>
+    <Description>air cooler</Description>
+    <Price>160</Price>
+  </Part>
+  <Part id = "5">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>air cooler</Name>
+    <Description>AC</Description>
+    <Price>60</Price>
+  </Part>
+  <Part id = "6">
+    <ServiceID>1100</ServiceID>
+    <ProviderID>2010</ProviderID>
+    <Name>Car tires</Name>
+    <Description>winter tires</Description>
+    <Price>4,500</Price>
+  </Part>
+</Parts>

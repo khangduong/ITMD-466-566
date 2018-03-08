@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Billings>
+  <Billing id = "1">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>123455871966</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+  <Billing id = "2">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>123455597866</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+  <Billing id = "3">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>123455556666</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+  <Billing id = "4">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>123455556666</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+  <Billing id = "5">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>12345599416</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+  <Billing id = "6">
+    <CustomerID>1342</CustomerID>
+    <CardDetail>123455432866</CardDetail>
+    <Password>5D41402ABC4B2A76B9719D911017C592</Password>
+  </Billing>
+</Billings>
