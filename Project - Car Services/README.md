@@ -13,5 +13,4 @@ Highlights of this application are:
 The web application will be a channel partner and become point of contact to sell cars available in the provider car lot. A major challenge to be overcome is to bridge the gap between various technologies used by different partner dealerships and provide a single point of access to the end consumer.
 The application does not intend to limit its partnerships to select few dealerships but instead requires that the solution be flexible and scalable to add and remove providers. One of the ways the requirement can be satisfied is to provide a web-service to provide a unified method to access information available in their own database along with information obtained via the adaptation layer.
 
-![alt text](https://github.com/khangduong/ITMD-466-566/blob/master/Project%20-%20Car%20Services/images/car.jpg)
 ![alt text](https://github.com/khangduong/ITMD-466-566/blob/master/Project%20-%20Car%20Services/images/car1.jpg)
