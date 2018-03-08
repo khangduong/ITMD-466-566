@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<partservices>
+  <partservice id = "1">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "2">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "3">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "4">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "5">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "6">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+  <partservice id = "7">
+    <customerId>1245</customerId>
+    <providerId>61</providerId>
+    <serviceId>45</serviceId>
+    <partID>12</partID>
+    <description>Car Tires</description>
+    <price>5,600</price>
+    <start>08/12/</start>
+    <end>24/12</end>
+    <status>In stock</status>
+  </partservice>
+</partservices>

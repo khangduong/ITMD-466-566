@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customers>
+	<customer id="1">
+		<name>Paul Peters</name>
+		<phone>312-111-2222</phone>
+		<email>ppeters@gmail.com</email>
+		<address>3241 S Wabash Ave</address>
+	</customer>
+	<customer id="2">
+		<name>Josh Black</name>
+		<phone>312-111-3456</phone>
+		<email>jblack@gmail.com</email>
+		<address>3241 S Wabash Ave</address>
+	</customer>
+  <customer id="3">
+		<name>Alice Kim</name>
+		<phone>312-113-5622</phone>
+		<email>akim@gmail.com</email>
+		<address>3241 S Wabash Ave</address>
+	</customer>
+  <customer id="4">
+		<name>Mike Duhame</name>
+		<phone>312-145-6722</phone>
+		<email>mduhamel@gmail.com</email>
+		<address>3241 S Wabash Ave</address>
+	</customer>
+</customers>

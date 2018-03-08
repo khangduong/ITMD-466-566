@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<consumerprovider>
+  <consumerprovider id = "1">
+    <providerId>1234</providerId>
+  </consumerprovider>
+  <consumerprovider id = "2">
+    <providerId>7596</providerId>
+  </consumerprovider>
+  <consumerprovider id = "3">
+    <providerId>8541</providerId>
+  </consumerprovider>
+  <consumerprovider id = "4">
+    <providerId>1254</providerId>
+  </consumerprovider>
+  <consumerprovider id = "5">
+    <providerId>1126</providerId>
+  </consumerprovider>
+  <consumerprovider id = "6">
+    <providerId>4442</providerId>
+  </consumerprovider>
+</consumerprovider>
