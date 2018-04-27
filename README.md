@@ -17,6 +17,6 @@
 
 3. **Report** - This is our final written report for this project describing our journey throughout this semester and the description of our project with screenshots. 
   
-4. **Diagrams"" - This is the folder container all the diagrams in the report (UML, User Case, Entity Relationship, High Level Architecture) 
+4. **Diagrams** - This is the folder container all the diagrams in the report (UML, User Case, Entity Relationship, High Level Architecture) 
   
  
