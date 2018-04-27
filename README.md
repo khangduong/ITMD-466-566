@@ -3,13 +3,13 @@
 ## Group Members    
  **Pragya Shukla**
  
- *Github*: https://github.com/pragyashukla8
+ Github: https://github.com/pragyashukla8
  
  **Dinh Khang Duong**
  
- *Github*: https://github.com/khangduong
+ Github: https://github.com/khangduong
  
- # Group Number 9: E-commerce for Cars and Car Parts
+ # Group Number 9: Car & Car Parts E-commerce Website
 
 1. Car Sample - This is our main project written in MVC architecture (JSP, Servlet, MySQL) 
 
